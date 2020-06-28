@@ -1,5 +1,5 @@
 # Whatsappbot_football
-A whatsapp bot that gives you football league table for the top european leagues using python3, selenium and beautifulsoup4
+A whatsapp bot that gives you the football league table for the top european leagues using python3, selenium and beautifulsoup4
 
 ## Usage
 Add the bot's mobile number to the group or directly text the number.
